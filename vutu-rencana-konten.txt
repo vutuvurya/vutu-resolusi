@@ -1,0 +1,6 @@
+RENCANA KONTEN
+- Javascript
+- PHP
+- Laravel
+- Phyton
+- dll
