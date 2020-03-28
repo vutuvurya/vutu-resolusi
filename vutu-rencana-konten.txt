@@ -4,5 +4,6 @@ RENCANA KONTEN
 - Laravel
 - Phyton
 - Coba
+- Fitur 1
 - Fitur 2
 - Fitur 3
